@@ -3,11 +3,11 @@ hyperskill_project:
   ide_files: https://stepik.org/media/attachments/lesson/652742/additional_files.json
   is_template_based: false
   use_ide: true
-update_date: Thu, 01 Jan 1970 00:00:00 UTC
+update_date: Sun, 28 Aug 2022 14:56:59 UTC
 stages:
 - id: 1157
   step: 17897
-  is_completed: false
+  is_completed: true
 - id: 1158
   step: 17898
   is_completed: false
@@ -37,10 +37,10 @@ topics:
     theory_id: 8154
   - title: Multi-line programs
     theory_id: 8162
-  - title: Strings and Numbers
-    theory_id: 8194
   - title: Variables
     theory_id: 8186
+  - title: Strings and Numbers
+    theory_id: 8194
   - title: Arithmetic operators
     theory_id: 8372
   - title: Functions
